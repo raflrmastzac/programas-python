@@ -1,4 +1,4 @@
-# Programas e Python de la materia de Computacion Aplicada
+# Programas de Python de la materia de Computacion Aplicada
 
 - Nombre: Rafael Lopez Rodriguez
 - Correo: lopezrodriguezrafael01@gmail.com
@@ -9,6 +9,9 @@
 - Programa 3
 
 ## Actividad 2
-- Porgrama 4
+- Programa 4
 - Programa 5
 - Programa 6
+
+## Actividad 3
+- Programa 7
