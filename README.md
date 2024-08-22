@@ -4,14 +4,10 @@
 - Correo: lopezrodriguezrafael01@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
+- Liga repocitorio
 
 ## Actividad 2
-- Programa 4
-- Programa 5
-- Programa 6
-
-## Actividad 3
-- Programa 7
+- p01_hola_mundo.py
+- p02_area_circulo.py
+- p03_area_triangulo.py
+- p04_paga_trabajador.py
