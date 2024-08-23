@@ -11,3 +11,9 @@
 - p02_area_circulo.py
 - p03_area_triangulo.py
 - p04_paga_trabajador.py
+
+## Actividad 3
+- p05_promedio_de_calificaciones.py
+- p06_operaciones_matematicas.py
+- p07_funciones_trigonometricas.py
+- p08_dividir_en_cifras.py
