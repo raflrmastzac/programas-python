@@ -15,5 +15,7 @@
 ## Actividad 3
 - p05_promedio_de_calificaciones.py
 - p06_operaciones_matematicas.py
+- p06b_operadores_de_asignacion.py
 - p07_funciones_trigonometricas.py
+- p07b_funciones_de_modulo_math.py
 - p08_dividir_en_cifras.py

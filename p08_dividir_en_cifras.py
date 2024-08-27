@@ -1,16 +1,25 @@
-# p08_dividir_en_cifras - Dividir en cifras un numero entero
+# p08_dividir_en_cifras - Divide un numero entero de 3 cifras en centenas, decenas, unidades
 
 # Se importa la libreria de calculo matematico a el codigo para su uso
-import math
+import os
 
-# Se da mensaje de inicio 
-print("Dividir en unidades, decenas y centenas un numero entero")
+#Se limpia el texto previo en terminal
+os.system("clear")
 
-# Se definen las variables de trabajo
-numero = int(input("Dame un número de 3 cifras: "))   # Se da el mensaje de interraccion
-centenas = math.trunc( numero / 100 )
-decenas = math.trunc( (numero - centenas * 100) / 10 )
-unidades = numero - (centenas * 100 + decenas * 10)
+# Se da mensaje de inicio y el mensaje de interraccion
+print("Divide un numero entero de 3 cifras en centenas, decenas y unidades \n")
+n = int(input("Dame un numero entero de 3 cifras ?"))
+
+# Se definen variables
+c = n // 100
+d = ( n - (c* 100) ) // 10
+u = ( n - (c * 100 + d * 10))
 
 # Se muestra el resultado
-print(f"centenas: {centenas}, decenas: {decenas}, unidades: {unidades}")
+print("El numero original es ", n)
+print("Centenas : ", c)
+print("Decenas  : ", d)
+print("Unidades : ", u)
+
+print("\nNumero de la suerte", c+d+u)
+
