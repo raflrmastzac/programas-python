@@ -1,4 +1,4 @@
-# p06_operadores_de_asignacion - Ejemplifica el uso de operadores de asignación.
+# p06b_operadores_de_asignacion - Ejemplifica el uso de operadores de asignación.
 
 # Se define cada una de las variables a emplear
 num = 40

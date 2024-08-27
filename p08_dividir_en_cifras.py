@@ -22,4 +22,3 @@ print("Decenas  : ", d)
 print("Unidades : ", u)
 
 print("\nNumero de la suerte", c+d+u)
-
