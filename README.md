@@ -34,3 +34,10 @@
 - p17_convertir_temperaturas.py
 - p17_convertir_temperaturas_v2.py
 - p18_paga_trabajador_v2.py
+
+## Actividad 5
+- p19_verifica_suma.py
+- p20_ley_de_newton.py 
+- p21_aceptar_estudiante.py
+- p21_aceptar_estudiante_v2.py
+- p21_tipo_angulo.py
