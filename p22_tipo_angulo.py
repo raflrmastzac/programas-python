@@ -1,4 +1,4 @@
-# p21_tipo_angulo - Muestra al tipo de angulo en base a su magnitud
+# p22_tipo_angulo - Muestra al tipo de angulo en base a su magnitud
 # <90 agudo, =90 recto, >90 y <180 obtuso, =180 llano,
 
 # Se limpia el texto de la terminal >180 y <360 concavo

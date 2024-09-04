@@ -1,4 +1,4 @@
-# p21_aceptar_estudiante_v2 - aceptar estudiante en base a cierto criterios
+# p21.5_aceptar_estudiante_v2 - aceptar estudiante en base a cierto criterios
 # >=18   c1 >= 8  y  c2 >= 8
 
 # Se limpia el texto de la terminal
