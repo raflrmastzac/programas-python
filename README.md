@@ -49,3 +49,14 @@
 - p26_numeros_romanos.py
 - p27_calculo_nota.py
 - p28_aceptar_estudiante_v2.py
+
+## Actividad 6
+- p29_numeros_1_100.py
+- p29b_numeros_1_100_v2.py
+- p29c_numeros_1_100_v3.py
+- p30_numeros_100_1.py
+- p30b_numeros_100_1_v2.py
+- p30c_numeros_100_1_v3.py
+- p31_numeros_1_200_10.py 
+- p32_numeros_suma_100.py
+- p33_conteo_numeros.py
