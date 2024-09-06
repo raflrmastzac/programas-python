@@ -42,3 +42,10 @@
 - p21_aceptar_estudiante_v2.py
 - p21_tipo_angulo.py
 
+## Tarea 2
+- p23_numeros_consecutivos.py
+- p24_numero_mayor.py
+- p25_dia_de_la-semana.py
+- p26_numeros_romanos.py
+- p27_calculo_nota.py
+- p28_aceptar_estudiante_v2.py
