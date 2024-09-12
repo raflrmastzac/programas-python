@@ -76,3 +76,12 @@
 - p36_tabla_multiplicar.py
 - p37_tabla_multiplicar_v2.py
 - p38_adivina_numero.py
+
+## Tarea 3
+
+- p39_impares_ascendente.py
+- p40_pares_descendente.py
+- p41_promedio_suma.py
+- p42_suma_200.py
+- p43_conversion_temperaturas.py
+- p44_numero_mayor.py
