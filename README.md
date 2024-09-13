@@ -85,3 +85,7 @@
 - p42_suma_200.py
 - p43_conversion_temperaturas.py
 - p44_numero_mayor.py
+
+## Examen Parcial 1
+
+- p45_examen_parcial.py
