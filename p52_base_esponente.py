@@ -23,4 +23,3 @@ else:
     print("\nEl ciclo termino correctamente")
 
 print(f"La base {base} elevado a la {exp} es {p}")
-
