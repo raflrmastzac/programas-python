@@ -89,3 +89,17 @@
 ## Examen Parcial 1
 
 - p45_examen_parcial.py
+
+## Actividad 8
+
+- p46_numeros_1_100.py
+- p46_numeros_1_100_v2.py
+- p46_numeros_1_100_v3.py
+- p47_numeros_100_1.py
+- p47_numeros_100_1_v2.py
+- p47_numeros_100_1_v3.py
+- p48_arriba_abajo.py
+- p49_suma_pares_impares.py
+- p50_suma_numeros.py
+- p51_multiplos_suma.py
+- p52_base_exponente.py
