@@ -104,3 +104,11 @@
 - p51_multiplos_suma.py
 - p52_base_exponente.py
 
+## Actividad 9
+
+- p53_factorial.py
+- p54_tabla_multiplicar.py
+- p55_tablas_multiplicar.py
+- p56_piramide_caracter.py
+- p57_factorial_numeros.py
+- p58_combina_colores.py
