@@ -112,3 +112,11 @@
 - p56_piramide_caracter.py
 - p57_factorial_numeros.py
 - p58_combina_colores.py
+
+## Tarea 4
+
+- p59_numeros_10_en_10.py
+- p60_sumap_pares_2_n.py
+- p61_secuencia_numeros_1.py
+- p62_secuencia_numeros_2.py
+- p63_secuencia_terminos_1.py
