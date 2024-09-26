@@ -120,3 +120,11 @@
 - p61_secuencia_numeros_1.py
 - p62_secuencia_numeros_2.py
 - p63_secuencia_terminos_1.py
+
+## Actividad 10
+
+- p64_acceder_lista.py
+- p65_cambiar_lista.py
+- p66_agregar_lista.py
+- p67_remover_lista.py
+- p68_iterar_lista.py
