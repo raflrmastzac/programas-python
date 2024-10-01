@@ -128,3 +128,11 @@
 - p66_agregar_lista.py
 - p67_remover_lista.py
 - p68_iterar_lista.py
+
+## Actividad 11
+
+- p69-procesar-calificaciones.py
+- p70-sumar-listas.py
+- p71-dia-paga.py
+- p72-nombres-edades.py
+- p73-listas-aleatorios.py
