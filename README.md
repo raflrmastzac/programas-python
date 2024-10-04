@@ -145,3 +145,11 @@
 - p77-lista-aleatorios-suma.py
 - p78-ciudades.py
 - p79-lista-impares.py
+
+## Actividad 12
+
+- p80-estudiante.py
+- p81-calificaciones.py
+- p82-nombres y edades.py
+- p83-conversion-medida.py
+- p84-conversion-moneda.py
