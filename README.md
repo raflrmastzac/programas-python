@@ -136,3 +136,12 @@
 - p71-dia-paga.py
 - p72-nombres-edades.py
 - p73-listas-aleatorios.py
+
+## Tarea 5
+
+- p74-procesar-notas.py
+- p75-lista-multiplica.py
+- p76-meses-dia-nombre.py
+- p77-lista-aleatorios-suma.py
+- p78-ciudades.py
+- p79-lista-impares.py
