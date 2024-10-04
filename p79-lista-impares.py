@@ -45,4 +45,5 @@ while True:
         print("El numero ingresado no se encuentra en la lista")
 
     if input("\nContinuar (s/n)").lower().startswith("n"): break
+
 print("\nProceso terminado")
