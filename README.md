@@ -144,7 +144,7 @@
 - p76-meses-dia-nombre.py
 - p77-lista-aleatorios-suma.py
 - p78-ciudades.py
-- p79-lista-impares.py 
+- p79-lista-impares.py
 
 ## Actividad 12
 
@@ -153,3 +153,11 @@
 - p82-nombres y edades.py
 - p83-conversion-medida.py
 - p84-conversion-moneda.py
+
+## Actividad 13
+
+- p85_procesar_pizza.py
+- p86_lista_dic_auto.py
+- p87_lista_dic_estudiante.py
+- p88_cliente_productos.py
+- p89_area_figuras.py
