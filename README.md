@@ -161,3 +161,12 @@
 - p87_lista_dic_estudiante.py
 - p88_cliente_productos.py
 - p89_area_figuras.py
+
+Tarea 6
+
+- p90_crear_acceder_diccionario.py
+- p91_modificar_diccionario.py
+- p92_agregar_diccionario.py
+- p93_eliminar_diccionario.py
+- p94_procesar_diccionario.py
+- p95_contar_caracteres.py
