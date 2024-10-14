@@ -162,7 +162,7 @@
 - p88_cliente_productos.py
 - p89_area_figuras.py
 
-Tarea 6
+## Tarea 6
 
 - p90_crear_acceder_diccionario.py
 - p91_modificar_diccionario.py
@@ -170,3 +170,8 @@ Tarea 6
 - p93_eliminar_diccionario.py
 - p94_procesar_diccionario.py
 - p95_contar_caracteres.py
+
+## Actividad 14
+
+- p96_trabajando_conjuntos.py
+- p97_operaciones_conjuntos.py
