@@ -175,3 +175,8 @@
 
 - p96_trabajando_conjuntos.py
 - p97_operaciones_conjuntos.py
+
+## Tarea 7
+
+- p98_personas.py
+- p99_numeros.py
