@@ -180,3 +180,7 @@
 
 - p98_personas.py
 - p99_numeros.py
+
+## Examen Parcial 2
+
+- p100_segundo_examen_parcial.py
