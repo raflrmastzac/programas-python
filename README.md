@@ -185,7 +185,7 @@
 
 - p100_segundo_examen_parcial.py
 
-Actividad 15
+## Actividad 15
 
 - p101_funcion.py
 - p102_funcion_parametro.py
