@@ -203,3 +203,16 @@
 - p114_factorial.py
 - p115_calificacion_letra.py
 - p116_suma_rango.py
+
+## Actividad 16
+
+- p117_suma_lista.py
+- p118_pares_lista.py
+- p119_mayor_menor.py
+- p120_mayores_promedio.py
+- p121_pares_impares.py
+- p122_aleatorios.py
+- p123_nombres.py
+- p124_funciones.py
+- p125_usa_funciones.py
+- p126_modulos_integrados.py
