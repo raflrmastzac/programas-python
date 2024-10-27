@@ -216,3 +216,13 @@
 - p124_funciones.py
 - p125_usa_funciones.py
 - p126_modulos_integrados.py
+
+## Tarea 8
+
+- p127_numero_menor.py
+- p128_dia_semana.py
+- p129_medidas_longitud.py
+- p130_suma_pares_impares.py
+- p131_suma_digitos_lista.py
+- p132_calcula_factoriales.py
+- p133_estadisticas_basicas.py
