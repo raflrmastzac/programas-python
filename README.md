@@ -237,4 +237,3 @@
 ## Tarea 9
 
 - p138_articulo.py
-
