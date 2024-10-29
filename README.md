@@ -226,3 +226,14 @@
 - p131_suma_digitos_lista.py
 - p132_calcula_factoriales.py
 - p133_estadisticas_basicas.py
+
+## Actividad 17
+
+- p134_empleado1.py
+- p135_empleado2.py
+- p136_circulo.py
+- p137_rectangulo.py
+
+## Tarea 9
+
+- p138_articulo.py
