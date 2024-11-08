@@ -237,3 +237,11 @@
 ## Tarea 9
 
 - p138_articulo.py
+
+## Actividad 18
+
+- p139_ventas.py
+
+## Examen Parcial 3
+
+- p140_tercer_examen_parcial.py
