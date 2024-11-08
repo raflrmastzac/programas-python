@@ -244,4 +244,4 @@
 
 ## Examen Parcial 3
 
-- p140_tercer_examen_parcial.py 
+- p140_tercer_examen_parcial.py
